@@ -1,3 +1,3 @@
 # ADS500B_FinalProject
 
-This is my first project
+How to use Github guide: https://guides.github.com/activities/hello-world/
